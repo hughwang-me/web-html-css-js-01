@@ -1,0 +1,52 @@
+p{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+/**
+    #top
+ */
+.top{
+    line-height: 30px;
+    font-size: 13px;
+    color: #868686;
+}
+.top .call{
+    padding-left: 20px;
+    background: url(../img/icon-call.png) no-repeat center left;
+}
+.top .welcome{
+    float: right;
+}
+.top a{
+    color: #2DA5E1;
+    padding-left: 10px;
+}
+
+/**
+    #header
+ */
+.header .wrap{
+    background-color: red;
+}
+.header-logo{
+    width: 402px;
+    height: 74px;
+    background-color: #2DA5E1;
+}
+.header{
+    line-height: 74px;
+}
+.header-logo .title{
+    font-size: 45px;
+}
+
+.header-search{
+    width: 326px;
+    height: 38px;
+    background-color: #2DA5E1;
+    position: absolute;
+    right: 0px;
+    top: 13px;
+}
